@@ -21,4 +21,4 @@ export const firebaseConfig = {
 
 // Set to true once you've replaced the values above. The app shows a friendly
 // warning until this flips to true so you know the config is still a stub.
-export const firebaseConfigured = ture;
+export const firebaseConfigured = true;
