@@ -11,14 +11,14 @@
 // ---------------------------------------------------------------------------
 
 export const firebaseConfig = {
-  apiKey: "PASTE_API_KEY_HERE",
-  authDomain: "PASTE_PROJECT_ID.firebaseapp.com",
-  projectId: "PASTE_PROJECT_ID",
-  storageBucket: "PASTE_PROJECT_ID.appspot.com",
-  messagingSenderId: "PASTE_SENDER_ID",
-  appId: "PASTE_APP_ID"
+  apiKey: "AIzaSyBHo5Kh7-zDq5y1BQUfkMVSfC2GtByoaFA",
+  authDomain: "family-todo-c104d.firebaseapp.com",
+  projectId: "family-todo-c104d",
+  storageBucket: "family-todo-c104d.firebasestorage.app",
+  messagingSenderId: "848042639522",
+  appId: "1:848042639522:web:950a2020bfe6b7ef1657fb"
 };
 
 // Set to true once you've replaced the values above. The app shows a friendly
 // warning until this flips to true so you know the config is still a stub.
-export const firebaseConfigured = false;
+export const firebaseConfigured = ture;
